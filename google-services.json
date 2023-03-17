@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129352387428",
+    "project_id": "wachiapp-c6365",
+    "storage_bucket": "wachiapp-c6365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129352387428:android:136ffdb72df360c6570871",
+        "android_client_info": {
+          "package_name": "com.watchcoders.wachiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129352387428-6u9uipslutlog2imgr9opp8fcjjs44kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxnvbV1oTf2hf6-ugVHnl85s7XVPlDns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129352387428-6u9uipslutlog2imgr9opp8fcjjs44kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
